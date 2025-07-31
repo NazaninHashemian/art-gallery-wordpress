@@ -40,7 +40,7 @@ This project was created to:
 ![Home Page](screenshots/home.png)
 
 ### 🎭 Repertoire Page
-![Repertoire Page](screenshots/repertoire.png)
+![Repertoire Page](screenshots/portfolio.png)
 
 ### 👩 Biography Page
 ![Biography Page](screenshots/biography.png)
