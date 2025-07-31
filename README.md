@@ -1,39 +1,44 @@
-# art-gallery-wordpress
-This is a responsive art gallery website I built using WordPress and Elementor. The site showcases my traditional artwork, primarily charcoal and pencil sketches. It was designed to present my portfolio in a clean, engaging, and user-friendly way.
+# 🎨 Nazanin's Art Gallery
 
-# Nazanin's Art Gallery 🎨
+This is a responsive art gallery website I built using **WordPress** and **Elementor**, showcasing my traditional, hand-drawn black & white artworks — primarily charcoal and pencil sketches. The design emphasizes simplicity and clarity to present my work in a professional, engaging way.
 
-This is a personal art gallery website created using **WordPress** and **Elementor**, showcasing my hand-drawn black & white artworks — primarily charcoal and pencil sketches.
+🔗 **Live Site**: [nazanin.42web.io](http://nazanin.42web.io)
+
+---
 
 ## 🖼️ Project Description
 
 - Built using WordPress + Elementor
-- Designed as a portfolio to display traditional (non-digital) art
-- Responsive design with motion effects
-- Simple, clean, and gallery-focused layout
+- Focused on traditional (non-digital) art presentation
+- Responsive design with subtle motion effects
+- Clean, portfolio-style layout optimized for user experience
 
-Visit the live website: [nazanin.42web.io](http://nazanin.42web.io)
+---
 
-## 🚩 Purpose
+## 🚀 Purpose
 
-I created this website to:
-- Practice WordPress/Elementor front-end development
-- Showcase my personal artwork online
-- Serve as a portfolio project for my CV and job applications
+This project was created to:
 
-## 🛠️ Tools Used
+- Practice front-end development using WordPress & Elementor
+- Build a live portfolio site for personal use
+- Include in my resume and job applications as an example of site-building skills
+
+---
+
+## 🛠️ Tools & Tech
 
 - WordPress
 - Elementor
-- Custom CSS & animations
+- Custom CSS (within Elementor)
 - Hosted on 000webhost
 
-## 📌 Notes
+---
 
-This site does **not** contain any source code files, as it's built entirely in WordPress. Images and styling are created through Elementor and WordPress UI.
+## 📸 Screenshots
 
-## 📄 License
+```markdown
+### Home Page
+![Home Page](screenshots/homepage.png)
 
-*(To be added later)* — Planning to use **Creative Commons CC BY-NC-ND 4.0** to protect artwork while allowing sharing with credit.
-
-
+### Repertoire Page
+![Repertoire](screenshots/repertoire.png)
