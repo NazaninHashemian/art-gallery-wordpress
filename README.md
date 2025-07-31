@@ -36,9 +36,15 @@ This project was created to:
 
 ## 📸 Screenshots
 
-```markdown
-### Home Page
+### 🏠 Home Page
 ![Home Page](screenshots/homepage.png)
 
-### Repertoire Page
-![Repertoire](screenshots/repertoire.png)
+### 🎭 Repertoire Page
+![Repertoire Page](screenshots/repertoire.png)
+
+### 👩 Biography Page
+![Biography Page](screenshots/biography.png)
+
+### 📬 Contact Page
+![Contact Page](screenshots/contact.png)
+
