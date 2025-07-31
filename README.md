@@ -37,7 +37,7 @@ This project was created to:
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/home.png)
 
 ### 🎭 Repertoire Page
 ![Repertoire Page](screenshots/repertoire.png)
